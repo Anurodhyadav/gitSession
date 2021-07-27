@@ -1,3 +1,55 @@
+
+
+
+  .sharpener{
+    position:absolute;
+    margin-left:20px;
+    width:80px;
+    height:100px;
+    background:rgb(163, 8, 8);
+    border-radius:15%
+  }
+  
+  .sharpener-1{
+    position:absolute;
+    margin-left:25px;
+    margin-top:10px;
+    width:30px;
+    height:80px;
+    background:white;
+  }
+  
+  .sharpener-2{
+    position:absolute;
+    margin-left:45px;
+    margin-top:45px;
+    width:8px;
+    height:8px;
+    background:rgb(163, 8, 8);
+    border-radius:100%
+  }
+  .sharpener-3{
+    position:absolute;
+    margin-left:-30px;
+    margin-top:29px;
+    width:40px;
+    height:45px;
+    background:#FFF;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  
+  .sharpener-4{
+    position:absolute;
+    margin-left:70px;
+    margin-top:29px;
+    width:40px;
+    height:45px;
+    background:#FFF;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+
 .middle {
   text-align: center;
 }
@@ -50,3 +102,4 @@
   border-left: 10px solid black;
   display: inline-block;
 }
+

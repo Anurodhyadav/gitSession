@@ -7,7 +7,8 @@
     width:80px;
     height:100px;
     background:rgb(163, 8, 8);
-    border-radius:15%
+    border-radius:15%;
+    margin-top: 30px;
   }
   
   .sharpener-1{
@@ -103,3 +104,38 @@
   display: inline-block;
 }
 
+.colorChange{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.colorChange .shubham{
+  border: 1px solid black;
+  background: red;
+}
+
+.colorChange .asmin{
+  border: 1px solid black;
+  background: red;
+}
+
+.colorChange .abhishek{
+  border: 1px solid black;
+  background: red;
+}
+
+.colorChange .rochak{
+  border: 1px solid black;
+  background: red;
+}
+
+.colorChange .sandip{
+  border: 1px solid black;
+  background: red;
+}
+
+.colorChange .bikesh{
+  border: 1px solid black;
+  background: red;
+}

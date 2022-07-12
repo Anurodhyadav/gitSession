@@ -2,6 +2,7 @@
 
 
   .sharpener{
+<<<<<<< HEAD
     position:absolute;
     margin-left:20px;
     width:80px;
@@ -9,6 +10,14 @@
     background:rgb(163, 8, 8);
     border-radius:15%;
     margin-top: 30px;
+=======
+    position: absolute;
+    margin-left: 20px;
+    width: 80px;
+    height: 100px;
+    background: rgb(177 152 235);
+    border-radius: 15%;
+>>>>>>> a0e0388a2bf76334f21ea08e55a81c306bc8d828
   }
   
   .sharpener-1{
@@ -26,7 +35,7 @@
     margin-top:45px;
     width:8px;
     height:8px;
-    background:rgb(163, 8, 8);
+    background:rgb(177 152 235);
     border-radius:100%
   }
   .sharpener-3{
@@ -103,6 +112,9 @@
   border-left: 10px solid black;
   display: inline-block;
 }
+.bikesh {
+  background-color: green;
+}
 
 .colorChange{
   display: flex;
@@ -138,4 +150,8 @@
 .colorChange .bikesh{
   border: 1px solid black;
   background: red;
+}
+
+.text-center{
+  text-align: center;
 }

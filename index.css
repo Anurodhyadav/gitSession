@@ -2,12 +2,12 @@
 
 
   .sharpener{
-    position:absolute;
-    margin-left:20px;
-    width:80px;
-    height:100px;
-    background:rgb(163, 8, 8);
-    border-radius:15%
+    position: absolute;
+    margin-left: 20px;
+    width: 80px;
+    height: 100px;
+    background: rgb(177 152 235);
+    border-radius: 15%;
   }
   
   .sharpener-1{
@@ -25,7 +25,7 @@
     margin-top:45px;
     width:8px;
     height:8px;
-    background:rgb(163, 8, 8);
+    background:rgb(177 152 235);
     border-radius:100%
   }
   .sharpener-3{
@@ -102,4 +102,9 @@
   border-left: 10px solid black;
   display: inline-block;
 }
-
+.bikesh{
+  background-color: green;
+}
+.text-center{
+  text-align: center;
+}

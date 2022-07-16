@@ -2,7 +2,6 @@
 
 
   .sharpener{
-<<<<<<< HEAD
     position:absolute;
     margin-left:20px;
     width:80px;
@@ -10,14 +9,6 @@
     background:rgb(163, 8, 8);
     border-radius:15%;
     margin-top: 30px;
-=======
-    position: absolute;
-    margin-left: 20px;
-    width: 80px;
-    height: 100px;
-    background: rgb(177 152 235);
-    border-radius: 15%;
->>>>>>> a0e0388a2bf76334f21ea08e55a81c306bc8d828
   }
   
   .sharpener-1{
@@ -60,58 +51,7 @@
     border-bottom-left-radius: 20px;
   }
 
-.middle {
-  text-align: center;
-}
-.wrapper {
-  margin: auto;
-  margin-top: 100px;
-  width: 400px;
-  height: 40px;
-}
 
-#eraser {
-  float: left;
-  width: 50px;
-  height: 40px;
-  border-radius: 20%;
-  background-color: pink;
-}
-
-#neck {
-  float: left;
-  margin-left: -10px;
-  height: 40px;
-  width: 10px;
-  background-color: black;
-}
-
-#middle {
-  float: left;
-  height: 40px;
-  width: 300px;
-  background-color: #ffff70;
-}
-
-.arrow-right {
-  float: left;
-  width: 0;
-  height: 0;
-  border-top: 20px solid transparent;
-  border-bottom: 20px solid transparent;
-  border-left: 40px solid #a9999f;
-}
-
-#tip {
-  margin-top: 15px;
-  width: 0;
-  height: 0;
-  margin-left: -10px;
-  border-top: 5px solid transparent;
-  border-bottom: 5px solid transparent;
-  border-left: 10px solid black;
-  display: inline-block;
-}
 .bikesh {
   background-color: green;
 }

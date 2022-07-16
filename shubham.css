@@ -10,11 +10,16 @@ body {
   font-family: "poppins", sans-serif;
 }
 
+.left {
+  text-decoration: none;
+  color: rgb(75, 75, 220);
+}
+
 .profile {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 50px;
+  /* margin-top: 0px; */
   line-height: 1.4;
   gap: 20px;
 }
@@ -91,11 +96,6 @@ body {
 
 .layer:hover h3 {
   opacity: 1;
-}
-
-.images figcaption {
-  margin-top: -16px;
-  font-size: 17px;
 }
 
 .footer {

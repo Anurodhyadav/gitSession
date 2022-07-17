@@ -1,0 +1,33 @@
+.section{
+    color: rgb(255, 255, 0);
+    position: relative;
+    text-shadow: 1px 1px 8px rgba(0,0,0,0.6);
+    font-size: 35;
+    margin-right: 10%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-bottom: 0%;    
+}
+.magic{
+    color: rgb(255, 0, 0);
+    font-size: 55;
+}
+.card_img{
+    width: 42%;
+    height: 0%;
+    position: relative;
+    justify-content: right;
+    padding-left: 10%;
+    margin-left: -10%;
+}
+body{
+    background-color: black;
+}
+
+
+
+
+
+
+
+ 

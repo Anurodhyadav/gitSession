@@ -2,7 +2,6 @@
 
 
   .sharpener{
-<<<<<<< HEAD
     position:absolute;
     margin-left:20px;
     width:80px;
@@ -10,14 +9,17 @@
     background:rgb(163, 8, 8);
     border-radius:15%;
     margin-top: 30px;
-=======
     position: absolute;
     margin-left: 20px;
     width: 80px;
     height: 100px;
     background: rgb(177 152 235);
     border-radius: 15%;
->>>>>>> a0e0388a2bf76334f21ea08e55a81c306bc8d828
+  }
+  .smriti{
+    font-size: 40px;
+    background-color: red;
+    width: 150px;
   }
   
   .sharpener-1{
